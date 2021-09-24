@@ -79,7 +79,7 @@ If you find any errors in this week's issue, [please submit a PR](https://github
 * [CN] [String in Rust](https://dev.to/daniel1in/string-in-rust-34d7)
 * [video] [From Python to Rust - all episodes](https://www.youtube.com/watch?v=7odJDwhjCXQ&list=PLEIv4NBmh-GsWGE9mY3sF9c5lgh5Z_jLr&ab_channel=BedroomBuilds)
 * [video] [1 Problem, 16 Programming Languages (C++ vs Rust vs Haskell vs Python vs APL...)](https://youtu.be/UVUjnzpQKUo)
-* [video] [Explaing Rust Analyzer 15: Error Resilient Parsing](https://youtu.be/0HlrqwLjCxA)
+* [video] [Explaining Rust Analyzer 15: Error Resilient Parsing](https://youtu.be/0HlrqwLjCxA)
 * [video] [Getting started with Rust 🦀 2021: 6. Library API design overhaul, async and more](https://www.youtube.com/watch?v=J_yGWdgeGQM)
 * [video] [series] [Rust for Java Developers](https://youtube.com/playlist?list=PL7r-PXl6ZPcD63DS2djSiz4SlXkaTfobc)
 
